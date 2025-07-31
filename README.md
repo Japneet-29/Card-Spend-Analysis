@@ -15,7 +15,7 @@ This project uses simulated card transaction data to predict customer responses 
 
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
-3. Run the notebook: `notebooks/offer_prediction.ipynb`
+3. Run the notebook: `notebooks/card_offer_analysis.ipynb`
 
 ## Dataset
 
